@@ -1,0 +1,166 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        * {
+            box-sizing: border-box;
+            vertical-align: top;
+        }
+
+        body, html {
+            height: 100%;
+            width: 100%;
+        }
+
+        table {
+            height: 40%;
+            width: 40%;
+            border: solid;
+            border-color: gold;
+            background-color: lightgray
+        }
+
+        td {
+            border: solid;
+            border-color: gold;
+        }
+
+            td.innerHTMl {
+                color: black;
+            }
+    </style>
+</head>
+<body onload="createTable()" onkeydown="Switch(event)">
+
+
+    <script>
+        
+        var mat = [0];
+        var table = document.createElement("table");
+        function createTable() {//פונקציה שיוצרת טבלה דינאמית
+            for (var i = 0; i < 4; i++) {
+                var tr = document.createElement("tr");
+                for (var j = 0; j < 4; j++) {
+                    var td = document.createElement("td");
+                    td.id = "td" + i + j;
+                    tr.appendChild(td);
+                }
+                table.appendChild(tr);
+            }
+            document.querySelector("body").appendChild(table);
+            random3Index();
+        }
+        function random3Index() {//מגריל 3 מקומות ומכניס 2,2,4,8
+            var index = 0, idxI = 0, idxJ = 0, i = 2;
+            index = (Math.round(Math.random() * 100) % 15);
+            idxI = Math.round(index / 4);
+            if (idxI == 4) idxI = idxI - 1;
+            idxJ = Math.round(index % 4);
+            document.getElementById("td" + idxI + idxJ).innerHTML = 2;
+            for (i = 2; i <= 8; i *= 2) {
+                do {
+                    index = (Math.round(Math.random() * 100) % 15);
+                    idxI = Math.round(index / 4);
+                    if (idxI == 4) idxI = idxI - 1;//מקרה קצה שindex>14ומעגל כלפי מעלה
+                    idxJ = Math.round(index % 4);
+                }
+                while (document.getElementById("td" + idxI + idxJ).innerHTML != "");//if mat[index] is undefine or 0
+                document.getElementById("td" + idxI + idxJ).innerHTML = i;
+            }
+        }
+        function randomIndex() {//מגריל מקום פנוי ומוסיף את המספר 2
+            var idxI = 0, idxJ = 0, index;
+            do {
+                var index = (Math.round(Math.random() * 100) % 16);
+            }
+            while (mat[index]);
+            idxI = Math.round(index / 4);
+            idxJ = Math.round(index % 4);
+            document.getElementById("td" + idxI + idxJ).innerHTML = 2;
+        }
+        function Switch(event) {
+            switch (event.keyCode) {
+                case  39:
+                    RightArrow();
+                    break;
+                    //חץ ימין
+                case 37:
+                    LeftArrow();
+                    break;
+                    //חץ שמאל
+                case  40:
+                    UpArrow();//חץ למעלה
+                    break;
+                //case  38:
+                //    DownArrow();//חץ למטה
+                //    break;
+            }
+        }
+        function LeftArrow() {
+            var ii = 0, jj = 0, i = 3, j = 3, ij, iijj;
+            for (i = 3; i >= 0; i--)
+                for (j = 3; j >= 0; j--) {
+                   
+                    if (document.getElementById("td" + i + j).innerHTML != "") {
+                        if (j != 0)
+                            jj = j - 1;
+                        else jj = j;
+                        ii = i;
+                       
+                        while (document.getElementById("td" + ii + jj).innerHTML == "" && jj > 0) jj--;
+                        if (document.getElementById("td" + ii + jj).innerHTML == document.getElementById("td" + i + j).innerHTML) {//אם הם שווים //מחבר סכומים
+                            document.getElementById("td" + ii + jj).innerHTML= parseInt(iijj) + parseInt(iijj);
+                            document.getElementById("td" + i + j).innerHTML= "";//מאפס
+                        }
+                        else {//אם המקום ריק
+                            if (document.getElementById("td" + ii + jj).innerHTML == "")
+                                document.getElementById("td" + ii + jj).innerHTML= document.getElementById("td" + i + j).innerHTML;//מקדם למקום הריק
+                            else {
+                                document.getElementById("td" + ii + (jj + 1)).innerHTML = document.getElementById("td" + i + j).innerHTML;
+                            }//מקדם את הערך הנוכחי
+                            document.getElementById("td" + i + j).innerHTML= "";//מאפס
+                        }
+                    }
+                }
+        }
+        //function RightArrow()
+        //{
+        //    var ii = 3, jj = 3, i , j , ij, iijj;
+        //    for (i = 0; i < 4; i++)
+        //        for (j = 0; j < 4; j++) {
+        //            ij = document.getElementById("td" + i + j).innerHTML;
+        //            iijj = document.getElementById("td" + ii + jj).innerHTML;
+        //            console.log(" ij" + ij);
+        //            console.log(" iijj" + iijj);
+        //            if (ij != "") {
+        //                if (j != 3)
+        //                    jj = j + 1;
+        //                ii = i;
+        //                while (iijj == "" && jj < 4) jj++;
+        //                if (iijj == ij) {//אם הם שווים
+        //                    iijj = parseInt(iijj) + parseInt(iijj);//מחבר סכומים
+        //                    ij = "";//מאפס
+        //                }
+        //                else {//אם המקום ריק
+        //                    if (iijj == "")
+        //                        iijj = ij;//מקדם למקום הריק
+        //                    else { document.getElementById("td" + ii + jj + 1).innerHTML = ij; }//מקדם את הערך הנוכחי
+        //                    ij = "";//מאפס
+        //                }
+        //            }
+        //        }
+        //}
+
+        function whichButton(event) {
+            Switch(event);
+            randomIndex();//פונקציה שמוסיפה עוד ערך בטבלה
+        }
+    </script>
+
+
+</body>
+<!--<script src="JavaScript.js"></script>-->
+
+</html>

@@ -1,0 +1,239 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A5772A73-C188-44A3-B02A-1613F6FE000B}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebApplication1</RootNamespace>
+    <AssemblyName>WebApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="2048.html" />
+    <Content Include="ColorGame.html" />
+    <Content Include="home.css" />
+    <Content Include="picturemarshmelo\marshmeloo.PNG" />
+    <Content Include="picturemarshmelo\חדשש.PNG" />
+    <Content Include="picturemarshmelo\מרשמלו טוב.PNG" />
+    <Content Include="picturemedical\fds.PNG" />
+    <Content Include="picturemedical\jsa.PNG" />
+    <Content Include="picturemedical\קישור לדב.PNG" />
+    <Content Include="picturemedical\שיניים.PNG" />
+    <Content Include="pictureresort\footer.PNG" />
+    <Content Include="pictureresort\reasrt.PNG" />
+    <Content Include="sliders.html" />
+    <Content Include="info.html" />
+    <Content Include="info1.PNG" />
+    <Content Include="JavaScript\JavaScript.js" />
+    <Content Include="JavaScript\2048.js" />
+    <Content Include="marshmelo.html" />
+    <Content Include="medical.html" />
+    <Content Include="newGame.css" />
+    <Content Include="picturemarshmelo\2.JPG" />
+    <Content Include="picturemarshmelo\3.JPG" />
+    <Content Include="picturemarshmelo\4.JPG" />
+    <Content Include="picturemarshmelo\5.JPG" />
+    <Content Include="picturemarshmelo\6.JPG" />
+    <Content Include="picturemarshmelo\7.JPG" />
+    <Content Include="picturemarshmelo\8.JPG" />
+    <Content Include="picturemarshmelo\9.JPG" />
+    <Content Include="picturemarshmelo\קישור דב.JPG" />
+    <Content Include="picturemarshmelo\קישור חזרה לדב.JPG" />
+    <Content Include="picturemarshmelo\תמונת דב.JPG" />
+    <Content Include="picturemedical\1 5.JPG" />
+    <Content Include="picturemedical\10.JPG" />
+    <Content Include="picturemedical\11.JPG" />
+    <Content Include="picturemedical\12.JPG" />
+    <Content Include="picturemedical\13.JPG" />
+    <Content Include="picturemedical\14.JPG" />
+    <Content Include="picturemedical\16.JPG" />
+    <Content Include="picturemedical\קישור.JPG" />
+    <Content Include="picturemedical\תמונת דב.JPG" />
+    <Content Include="pictureresort\1.JPG" />
+    <Content Include="pictureresort\10.JPG" />
+    <Content Include="pictureresort\11.JPG" />
+    <Content Include="pictureresort\12.JPG" />
+    <Content Include="pictureresort\14.JPG" />
+    <Content Include="pictureresort\15.JPG" />
+    <Content Include="pictureresort\16.JPG" />
+    <Content Include="pictureresort\17.JPG" />
+    <Content Include="pictureresort\18.JPG" />
+    <Content Include="pictureresort\20.JPG" />
+    <Content Include="pictureresort\header.PNG" />
+    <Content Include="pictureresort\כותרת %281%29.JPG" />
+    <Content Include="pictureresort\כותרת %282%29.JPG" />
+    <Content Include="pictureresort\תמונת דב.JPG" />
+    <Content Include="pictureTips\vidio cut.mp4" />
+    <Content Include="pictureTips\‏‏כותתרת.PNG" />
+    <Content Include="resorts.html" />
+    <Content Include="style.css" />
+    <Content Include="Tips.html" />
+    <Content Include="JavaScript\verly.bundle.js" />
+    <Content Include="JavaScript\VerlyRange.js" />
+    <Content Include="w3.css" />
+    <Content Include="Web.config" />
+    <Content Include="דף בית.html" />
+    <Content Include="תמונות דף בית\11.JPG" />
+    <Content Include="תמונות דף בית\shutterstock_53922664.jpg" />
+    <Content Include="תמונות דף בית\בית אפור.png" />
+    <Content Include="תמונות דף בית\מילה מלקוחות\1costumer.PNG" />
+    <Content Include="תמונות דף בית\3.JPG" />
+    <Content Include="תמונות דף בית\5.JPG" />
+    <Content Include="תמונות דף בית\55.JPG" />
+    <Content Include="תמונות דף בית\66.JPG" />
+    <Content Include="תמונות דף בית\67.JPG" />
+    <Content Include="תמונות דף בית\7.JPG" />
+    <Content Include="תמונות דף בית\87.JPG" />
+    <Content Include="תמונות דף בית\88.JPG" />
+    <Content Include="תמונות דף בית\a1.PNG" />
+    <Content Include="תמונות דף בית\a2.PNG" />
+    <Content Include="תמונות דף בית\a3.PNG" />
+    <Content Include="תמונות דף בית\a4.PNG" />
+    <Content Include="תמונות דף בית\a6.PNG" />
+    <Content Include="תמונות דף בית\about1.PNG" />
+    <Content Include="תמונות דף בית\מילה מלקוחות\cosstumer3.PNG" />
+    <Content Include="תמונות דף בית\מילה מלקוחות\costumer2.PNG" />
+    <Content Include="תמונות דף בית\מילה מלקוחות\costumer4.PNG" />
+    <Content Include="תמונות דף בית\מילה מלקוחות\costumer5.PNG" />
+    <Content Include="תמונות דף בית\FJ-130.jpg" />
+    <Content Include="תמונות דף בית\left_previous.png" />
+    <Content Include="תמונות דף בית\right_next.png" />
+    <Content Include="תמונות דף בית\shutterstock_121707148.jpg" />
+    <Content Include="תמונות דף בית\shutterstock_171406565.jpg" />
+    <Content Include="תמונות דף בית\אודות.PNG" />
+    <Content Include="תמונות דף בית\אנימציה1.PNG" />
+    <Content Include="תמונות דף בית\אנימציה2.PNG" />
+    <Content Include="תמונות דף בית\אנימציה3.PNG" />
+    <Content Include="תמונות דף בית\אנימציה4.PNG" />
+    <Content Include="תמונות דף בית\דף בית.JPG" />
+    <Content Include="תמונות דף בית\לוגו חיהלה-01.png" />
+    <Content Include="תמונות דף בית\לקוח דב7.JPG" />
+    <Content Include="תמונות דף בית\לקוח1.PNG" />
+    <Content Include="תמונות דף בית\לקוח2.PNG" />
+    <Content Include="תמונות דף בית\לקוח3.PNG" />
+    <Content Include="תמונות דף בית\לקוח4.PNG" />
+    <Content Include="תמונות דף בית\לקוח5.PNG" />
+    <Content Include="תמונות דף בית\מילה עלינו.PNG" />
+    <Content Include="תמונות דף בית\מעבר.PNG" />
+    <Content Include="תמונות דף בית\מרפאת שיניים.JPG" />
+    <Content Include="תמונות דף בית\מרשמלו.JPG" />
+    <Content Include="תמונות דף בית\משחק חדש קישור.PNG" />
+    <Content Include="תמונות דף בית\משפט לדב.JPG" />
+    <Content Include="תמונות דף בית\קישור לטיפים.PNG" />
+    <Content Include="תמונות דף בית\קישור למשחק.PNG" />
+    <Content Include="תמונות דף בית\קישור מרפאה.PNG" />
+    <Content Include="תמונות דף בית\קישור מרשמלו.PNG" />
+    <Content Include="תמונות דף בית\קישור נופש.PNG" />
+    <Content Include="תמונות דף בית\קישור_משחק.PNG" />
+    <Content Include="תמונות דף בית\תמונת דב.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>53406</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:53406/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

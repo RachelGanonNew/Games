@@ -1,0 +1,68 @@
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\csc.exe
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\csc.exe.config
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\csc.rsp
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\csi.exe
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\csi.rsp
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\System.AppContext.dll
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\System.Collections.Immutable.dll
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\System.IO.FileSystem.dll
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\System.Reflection.Metadata.dll
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\vbc.exe
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\vbc.exe.config
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\vbc.rsp
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\VBCSCompiler.exe
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\roslyn\VBCSCompiler.exe.config
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\GamePage_1.dll.config
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\GamePage_1.dll
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\GamePage_1.pdb
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\obj\Debug\GamePage_1.csprojResolveAssemblyReference.cache
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\obj\Debug\GamePage_1.dll
+W:\כתות ה\התמחויות\הנדסאות\רחלי גנון\Project\GamePage_1\GamePage_1\obj\Debug\GamePage_1.pdb
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\csc.exe
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\csc.exe.config
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\csc.rsp
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\csi.exe
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\csi.rsp
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\System.AppContext.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\System.Collections.Immutable.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\System.IO.FileSystem.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\System.Reflection.Metadata.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\vbc.exe
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\vbc.exe.config
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\vbc.rsp
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\VBCSCompiler.exe
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\roslyn\VBCSCompiler.exe.config
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\GamePage_1.dll.config
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\GamePage_1.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\GamePage_1.pdb
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\obj\Debug\GamePage_1.csprojResolveAssemblyReference.cache
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\obj\Debug\GamePage_1.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\פרויקט חדש\Project\GamePage_1\GamePage_1\obj\Debug\GamePage_1.pdb

@@ -1,0 +1,172 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <script src="JavaScript/verly.bundle.js"></script>
+
+    <script src="JavaScript/VerlyRange.js"></script>
+    <style>
+        @import url('style.css');
+    </style>
+
+    <style>
+        * {
+            vertical-align: top;
+            box-sizing: border-box;
+        }
+
+
+        body, html {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+        }
+
+        #header {
+            /*width: 100%;
+            height: 80%;*/
+            text-align: center;
+        }
+
+        #section {
+            width: 100%;
+            height: 80%;
+            text-align: center;
+        }
+
+        #sens {
+            color: darkslateblue;
+            font-size: 70px;
+            font-family: 'Fb Plonter';
+            margin-top: -5%;
+            color: #587990;
+        }
+
+        .img {
+            display: block;
+            width: 50%;
+            height: 80%;
+            margin-left: 25%;
+        }
+
+        .headerimg {
+            width: 100%;
+            height: 40%;
+        }
+
+
+
+        #title {
+            width: 100%;
+            height: 40%;
+            margin-left: 10%;
+        }
+
+
+        #Dareg2 {
+            margin-top: 169%;
+            margin-left: 15%;
+            width: 60%;
+        }
+
+        #backHome2 {
+            width: 24%;
+            position: absolute;
+            top: 490%;
+            left: 24%;
+        }
+
+
+
+        #sum2 {
+            text-align: center;
+            font-size: 5vw;
+            top: -571%;
+            left: 13%;
+            z-index: 9;
+            color: #587990;
+            font-family: 'Fb Plonter';
+            position: absolute;
+        }
+
+
+        #btn2 {
+            color: #b50957;
+            font-size: medium;
+            z-index: 10;
+            position: absolute;
+            top: 466%;
+            left: 36%;
+            width: 114px;
+            font-size: xx-large;
+            background-color: #add7d8;
+            font-family: 'Fb Plonter';
+            font-weight: bold;
+        }
+    </style>
+
+
+
+</head>
+<body>
+
+    <div id="header">
+
+        <img src="picturemedical/16.JPG" id="title" />
+        <div id="sens">מרפאת שיניים לילדים שלא מ-פ-ח-ד-י-ם</div>
+
+    </div>
+    <div id="section">
+
+        <img src="picturemedical/10.JPG" class="img" />
+        <img src="picturemedical/11.JPG" class="img" />
+        <img src="picturemedical/12.JPG" class="img" />
+        <img src="picturemedical/13.JPG" class="img" />
+        <img src="picturemedical/14.JPG" class="img" />
+        <img src="picturemedical/1 5.JPG" class="img" />
+
+
+    </div>
+
+    <div id="footer">
+        <button onclick="rateDone()" id="btn2">דרגתי</button>
+
+        <img src="picturemedical/jsa.PNG" id="Dareg2" />
+
+
+
+
+        <a href="דף בית.html">
+            <img src="picturemedical/fds.PNG" id="backHome2" />
+        </a>
+
+    </div>
+
+
+    <label class="slidecontainer second medicall">
+        <span id="sum2"></span>
+        <input class="slider" id="range-slider2" type="range" min="1" step="1" max="100" value="100">
+    </label>
+
+
+
+
+    <script>
+
+
+        VerlyRange("range-slider2", "#eb3992");
+
+        function rateDone() {
+            var sum = document.getElementById("range-slider2").value;
+            document.getElementById("sum2").innerHTML = sum;
+        }
+    </script>
+
+
+
+
+
+</body>
+</html>

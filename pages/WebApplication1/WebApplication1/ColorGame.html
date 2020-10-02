@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        label {
+            font-family: Chiller;
+            font-size: 60px;
+            color: #374ba8;
+        }
+
+        .num {
+            font-family: Chiller;
+            font-size: 40px;
+            color: #374ba8 !important;
+        }
+        #back {
+            font-family: Chiller;
+            font-size: 20px;
+            color: #374ba8;
+            position:absolute;
+            right:32%;
+         top:14%;
+         
+        }
+        #home{
+            width:70px;
+            height:70px;
+            margin-top:2%;
+        }
+    </style>
+    <link href="http://localhost:53406/newGame.css" rel="stylesheet" />
+    <meta name="NetsparkQuiltingResult" total-length="533" removed="0" rules-found="w3070" />
+</head>
+<body>
+    <main>
+        <div class="controls">
+            <div class="new-game">New Game</div>
+            <div>
+                <label>Moves</label>
+                <div class="num">
+                    <span class="moves">
+                        <label class="num"></label>
+                    </span> / <span class="total">
+                        <label class="num"></label>
+                    </span>
+                </div>
+            </div>
+            <a href="דף בית.html">
+                <img src="תמונות דף בית/בית אפור.png" id="home" />
+            </a>
+            <label id="back">Back To Home</label>
+        </div>
+        <div id="board"></div>
+        <div id="colors"></div>
+        <div id="game-over"></div>
+    </main>
+    <script src="http://localhost:53406/JavaScript/JavaScript.js"></script>
+</body>
+</html>

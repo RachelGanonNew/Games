@@ -1,0 +1,168 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        * {
+            box-sizing: border-box;
+            vertical-align: central;
+        }
+
+        body, html {
+            height: 100%;
+            width: 100%;
+            text-align: center;
+        }
+
+        table {
+            height: 60%;
+            width: 40%;
+            background-color: #baadad;
+            border-radius: 5px 5px 5px 5px;
+            margin-left: 25%;
+            margin-top: 15%;
+        }
+
+        td, tr {
+            border: solid;
+            border-color: #baadad;
+            border-width: 5px;
+            background-color: #d1cccc;
+            color: #ff6a00;
+            /*clear:both;*/
+        }
+
+        td {
+            font-family: 'Eras ITC';
+            font-size: 40px;
+            font-weight: 600;
+            transition: background-color,color ease-out 200ms;
+        }
+
+        #over, #win {
+            width: 80%;
+            height: 80%;
+            display: none;
+            margin-left: 7%;
+            opacity: 0;
+        }
+
+        h1 {
+            font-family: Britannic;
+            font-size: 110px;
+            color: #ebb502;
+            text-shadow: 20px 12px 2px #f1af38;
+            text-align: center;
+        }
+
+        label {
+            font-family: Britannic;
+            font-size: 90px;
+            color: #000000;
+            text-align: center;
+        }
+
+        #try {
+            width: 20%;
+            background-color: #534747;
+            margin-left: 40%;
+        }
+
+        p {
+            font-family: Britannic;
+            font-size: 50px;
+            color: white;
+            text-align: center;
+        }
+
+        a:link {
+            text-decoration: none;
+        }
+
+
+        #Score {
+            background: #bbada0;
+            padding: 15px 25px;
+            font-size: 20px;
+            height: 75px;
+            width: 145px;
+            font-weight: bold;
+            border-radius: 3px;
+            color: white;
+            margin-top: 18px;
+            font-family: "Clear sans-serif",Arial, Helvetica, sans-serif;
+            margin-left: 1080px;
+        }
+
+        #score {
+            font-family: "Clear sans-serif",Arial, Helvetica, sans-serif;
+            font-size: 20px;
+            color: white;
+            margin-top: 18px;
+        }
+
+        @keyframes animation2 {
+            0% {
+                color: #00ff21;
+                width: 250px;
+                height: 250px;
+            }
+
+            25% {
+                color: #0bf7f0;
+                width: 300px;
+                height: 300px;
+            }
+
+            50% {
+                color: #be179c;
+                width: 350px;
+                height: 350px;
+            }
+
+            75% {
+                color: #c85605;
+                width: 400px;
+                height: 400px;
+            }
+        }
+
+        #header {
+            animation-name: animation2;
+            animation-duration: 4s;
+            animation-direction: reverse;
+            animation-iteration-count: infinite;
+            position: absolute;
+            font-size: 300px;
+            font-family:Calibri;
+            margin-left:-35%;
+            text-shadow:20px 12px 2px #ffd800;
+        }
+    </style>
+</head>
+
+<body onload="CreateTable()" onkeydown="Switch(event)">
+
+    <label id="header">2048</label>
+
+    <div id="Score">
+        SCORE
+        <br />
+        <label id="score">0</label>
+    </div>
+    <div id="over">
+        <label>Game Over !!!</label>
+        <div id="try">
+            <a href="2048.html"><p>Try again</p></a>
+        </div>
+    </div>
+    <div id="win">
+        <h1>You Win !!!</h1>
+        <div id="try">
+            <a href="2048.html"><p>Try again</p></a>
+        </div>
+    </div>
+    <script src="javaScript/2048.js"></script>
+</body>
+</html>

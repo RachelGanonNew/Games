@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="JavaScript/verly.bundle.js"></script>
+
+    <script src="JavaScript/VerlyRange.js"></script>
+    <style>
+        @import url('style.css');
+    </style>
+    <style>
+        * {
+            vertical-align: top;
+            box-sizing: border-box;
+            font-family: 'Fb Avukado';
+        }
+
+
+        body, html {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+        }
+
+
+        #section {
+            width: 100%;
+            height: 80%;
+            text-align: center;
+        }
+
+
+        #Dareg {
+            margin-top: 220%;
+            margin-left: 15%;
+            width: 60%;
+        }
+
+        #backHome {
+            margin-top: 1%;
+            margin-left:25%;
+            width:35%;
+        }
+
+
+        #sum {
+            text-align: center;
+            font-size: 5vw;
+            margin-top: 213%;
+            margin-left: 13%;
+            z-index:9;
+        }
+
+
+        #btn {
+            color: #eb3992;
+            font-size: medium;
+            z-index: 10;
+            position: absolute;
+            top: 518%;
+            left: 36%;
+            width: 76px;
+            font-size: x-large;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="section">
+        <img src="picturemarshmelo/2.JPG" />
+        <img src="picturemarshmelo/3.JPG" />
+        <img src="picturemarshmelo/4.JPG" />
+        <img src="picturemarshmelo/5.JPG" />
+        <img src="picturemarshmelo/6.JPG" />
+        <img src="picturemarshmelo/7.JPG" />
+        <img src="picturemarshmelo/8.JPG" />
+
+
+    </div>
+    <div id="footer">
+        <button onclick="rateDone()" id="btn">דרגתי</button>
+       
+        <img src="picturemarshmelo/חדשש.PNG" id="Dareg"  />
+        <a href="דף בית.html">
+            <img src="picturemarshmelo/marshmeloo.PNG" id="backHome" />
+        </a>
+    </div>
+
+    
+    <label class="slidecontainer second">
+        <span id="sum"></span>
+        <input class="slider" id="range-slider2" type="range" min="1" step="1" max="100" value="100">
+    </label>
+
+    <script>
+        VerlyRange("range-slider2", "#eb3992");
+
+        function rateDone()
+        {
+            var sum = document.getElementById("range-slider2").value;
+            document.getElementById("sum").innerHTML = sum;
+        }
+
+
+    </script>
+</body>
+</html>

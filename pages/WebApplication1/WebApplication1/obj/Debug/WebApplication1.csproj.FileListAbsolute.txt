@@ -1,0 +1,328 @@
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Users\User\Desktop\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+W:\כתות ה\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+W:\כתות ו תשפ\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+W:\כתות ו\התמחויות\הנדסאות\חיה פרץ\כיתה ה\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\פרוייקט בjava script\pages\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete

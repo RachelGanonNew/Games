@@ -1,0 +1,163 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        * {
+            box-sizing: border-box;
+            vertical-align: top;
+        }
+
+        body, html {
+            height: 100%;
+            width: 100%;
+        }
+
+        table {
+            height: 40%;
+            width: 40%;
+            border: solid;
+            border-color: gold;
+            background-color: lightgray;
+        }
+
+        td, tr {
+            border: solid;
+            border-color: gold;
+        }
+
+            td.innerHTML {
+                color: black;
+            }
+    </style>
+</head>
+
+
+
+
+<body onload="CreateTable()" onkeydown="Move(event)">
+
+    <script>
+
+        var table = document.createElement("table");
+        function CreateTable() {//פונקציה היוצרת את הטבלה באופן דינאמי
+            for (var i = 0; i < 4; i++) {
+                var tr = document.createElement("tr");
+
+                for (var j = 0; j < 4; j++) {
+                    var td = document.createElement("td");
+                    td.id = "td" + i + j;
+                    tr.appendChild(td);//מןסיף לכל שורה עמודה
+                }
+                table.appendChild(tr);
+            }
+            document.querySelector("body").appendChild(table);//מןסיף את הטבלה לעמוד
+            var index = RandomAndInsert();//קריאה ראשונה לפונקציה
+            while (RandomAndInsert() == index);//קריאה שניה לפונקציה
+
+
+        }
+
+
+        function RandomAndInsert() {// פונקציה שמגרילה את 2 4 ומגרילה מקום פנוי להכניס אותם
+            var index = 0, idRow = 0, idCol = 0;
+            //הגרלת מיקום בטבלה
+            do {
+                index = (Math.round(Math.random() * 100) % 16);
+                idRow = Math.round(index / 4);
+                if (idRow == 4)
+                    idRow--;
+                idCol = Math.round(index % 4);
+            }
+            while (document.getElementById("td" + idRow + idCol).innerHTML != "");
+            //הגרלת מספר
+
+            var num = (Math.round(Math.random() * 100 % 4));
+            while (num != 2 && num != 4) {
+                var num = (Math.round(Math.random() * 100 % 4));
+            }
+
+            //הצבת המספר המוגרל במקום המוגרל
+            document.getElementById("td" + idRow + idCol).innerHTML = num;
+            return index;
+        }
+
+
+        function Move(event) {
+            switch (event.keyCode) {
+                //case 39:
+                //    RightArrow();
+                //    break;
+                case 37:
+                    LeftArrow();
+                    break;
+                //case 40:
+                //    UpArrow();
+                //    break;
+                //case 38:
+                //    DownArrow();
+                //    break;
+
+            }
+            RandomAndInsert();
+        }
+
+
+        function LeftArrow() {
+            var ii = 0, jj = 0, ij, iijj;
+            for (var i = 3; i >= 0; i--)
+                for (var j = 3; j > 0; j--) {
+                    if (document.getElementById("td" + i + j).innerHTML != "") {
+                        jj = j - 1;
+                        while (document.getElementById("td" + i + jj).innerHTML == ""&&jj>0) jj--;
+                        if ((document.getElementById("td" + i + jj).innerHTML )==( document.getElementById("td" + i + j).innerHTML))//מקרה שהם שווים
+                        {
+                            document.getElementById("td" + i + jj).innerHTML = parseInt(document.getElementById("td" + i + j).innerHTML) + parseInt(document.getElementById("td" + i + j).innerHTML);
+                            document.getElementById("td" + i + jj).innerHTML = "";
+                        }
+
+
+                        else {
+                            if (document.getElementById("td" + i + jj).innerHTML == "")
+                                document.getElementById("td" + i + jj).innerHTML = document.getElementById("td" + i + j).innerHTML;
+
+
+
+                            else {
+
+                                document.getElementById("td" + i + (jj + 1)).innerHTML = document.getElementById("td" + i + j).innerHTML;
+                            }
+
+                            document.getElementById("td" + i + j).innerHTML = "";
+
+
+
+                        }
+                    }
+                }
+
+        }
+
+
+
+
+
+
+
+
+
+
+
+    </script>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
